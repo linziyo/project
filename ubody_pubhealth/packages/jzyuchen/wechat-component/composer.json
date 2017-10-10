@@ -1,0 +1,12 @@
+{
+    "name": "jzyuchen/wechat-component",
+    "authors": [
+        {
+            "name": "jzyuchen",
+            "email": "jzyuchen@163.com"
+        }
+    ],
+    "require": {
+        "overtrue/wechat:~3.1",
+    }
+}

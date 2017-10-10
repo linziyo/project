@@ -1,0 +1,40 @@
+.weui-filter {
+
+}
+
+.weui-filter_navbar {
+    display: flex;
+    list-style-type: none;
+}
+
+.weui-filter_navbar-item {
+    flex: 1;
+    border-bottom: solid 1px #ddd;
+}
+
+.weui-filter_navbar-item > a {
+    display: block;
+    font-size: 14px;
+    text-align: center;
+    padding: 15px 0;
+    color: #888888;
+}
+
+.weui-filter_content {
+    display: none;
+}
+
+.weui-stat {
+    text-align: center;
+}
+
+.weui-cell .weui-input {
+}
+
+.weui-hidden {
+    display: none;
+}
+
+.weui-display {
+    display: block;
+}

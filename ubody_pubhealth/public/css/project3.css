@@ -1,0 +1,163 @@
+.form-group {
+	margin-top: 20px;
+}
+
+#exampleInputName2 {
+	height: 36px;
+	width: 387px;
+	display: block;
+	margin-right: 20px;
+	background-color: #fff;
+	background-image: none;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+input[type=checkbox], input[type=radio] {
+	width: 20px;
+    height: 20px;  
+    vertical-align: bottom;  
+}
+.col-sm-4 {
+	width: 113px;
+	height: 36px;
+	margin-right: 23px;
+	display: block;
+	background-color: #fff;
+	background-image: none;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+
+.col1 {
+	margin-top: 5px;
+}
+
+.col1 label {
+	font-weight: inherit;
+}
+#tige_jiancha4 {
+    margin-top: -7px;
+}
+#tige_jiancha5 {
+    margin-top: -7px;
+}
+#tige {
+	margin-right: 12px;
+}
+
+.tige_pinjia {
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	margin-left: 10px;
+	font-size: 14px;
+	vertical-align: middle;
+	font-family: Arial, 微软雅黑;
+}
+
+select {
+	width: 176px;
+	height: 36px;
+	margin-right: 23px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+
+.yaci {
+	margin-left: 10px;
+	width: 69px;
+}
+
+.xiongbu {
+	margin-left: 77px;
+}
+
+.feibu {
+	margin-left: 33px;
+}
+
+.xb_fb {
+	margin-top: 5px;
+}
+.label_color{
+	color:#3C3C3C;
+	font-weight: inherit;
+}
+.mianse {
+    margin-top: 7px;
+}
+
+.pifu {
+	margin-left: 33px;
+}
+#fayu_pingjia {
+	margin-top: 5px;
+}
+
+#fayu_pingjia label {
+	padding-right: 41px;
+	font-size: 13px;
+	font-weight: inherit;
+}
+#fayu_pingjia0 {
+	margin-top: 5px;
+}
+
+#fayu_pingjia0 label {
+	padding-right: 41px;
+	font-size: 13px;
+	font-weight: inherit;
+}
+#fayu_pingjia1 {
+	margin-top: 5px;
+}
+
+#fayu_pingjia1 label {
+	padding-right: 41px;
+	font-size: 13px;
+	font-weight: inherit;
+}
+#fayu_pingjia2 {
+	margin-top: 5px;
+}
+
+#fayu_pingjia2 label {
+	padding-right: 41px;
+	font-size: 13px;
+	font-weight: inherit;
+}
+#fayu_pingjia3 {
+	margin-top: 3px;
+}
+
+#fayu_pingjia3 label {
+	padding-right: 41px;
+	font-size: 13px;
+	font-weight: inherit;
+}
+.suiji_qk {
+	width:56px;
+	border-color: #878787;
+	border-style: solid;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-left-width: 0px
+}
+.zzjy_qk{
+	width:121px;
+	border-color: #878787;
+	border-style: solid;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-left-width: 0px
+}
+#form_size{
+	width:55%;
+    margin:0px auto;
+    margin-top: 10px;
+}
+#form_size h3{
+	text-align: center;
+}

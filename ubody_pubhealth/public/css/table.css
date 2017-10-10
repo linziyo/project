@@ -1,0 +1,353 @@
+body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,li,ol,pre,form,fieldset,legend,button,input,textarea,th,td{
+	margin:0;
+	padding:0;
+}
+body,button,input,select,textarea{
+	font-size:14px;
+	font-family: Arial, "微软雅黑";
+}
+h1,h2,h3,h4,h5,h6{
+	font-size: 100%;
+}
+address,cite,dfn,em,var{
+	font-style: normal;
+}
+a,{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration:underline;
+}
+ul,li{
+	list-style-type:none;
+}
+form{
+	width:100%;
+	height: auto;
+	overflow: hidden;
+}
+
+.mt10{
+	margin-top: 10px;
+}
+
+/*健康体检表*/
+form>.personal>input.other{
+	height:26px;
+}
+.sanDan>label>.checkbox-inline{
+	font-size: 16px;
+	line-height: 2;
+	vertical-align: bottom;
+}
+.sanDan>label{
+	line-height:2;
+}
+.sanDan>label>input{
+	width:20px;
+	height: 20px;
+	display: inline-block;
+	vertical-align:bottom;
+	vertical-align:middle;
+	outline: none;
+	margin-top:5px;
+	line-height: 4;
+}
+.sanDan>input{
+	height: 34px;
+	width:50%;
+	text-indent: 5px;
+	margin-top: 2px;
+	border-radius:5px ;
+	border:none;
+	border:1px solid #999999;
+	outline: none;
+}
+
+.panel>.miss>input{
+	width:70%;
+	float: left;
+}
+.panel>.miss{
+	line-height:2.2;
+	font-size: 16px;
+	float: left;
+	width:50%;
+	padding-bottom:0 ;
+}
+.panel>.miss>span{
+	float: left;
+}
+.panel>.pddbottom15{
+	padding-bottom: 15px;
+}
+.panel>.pddtop0{
+	padding-top:0px;
+}
+.panel>.healthy>label{
+	font-weight:normal;
+}
+.panel>.healthy>label>input{
+	width:20px;
+	height: 20px;
+	line-height: 2;
+	vertical-align:bottom;
+}
+.panel>.healthy>label>input.inputText{
+	width:100px;
+	border: none;
+	border-bottom: 1px solid #999999;
+	outline: none;
+}
+.panel>.healthy>input.text_long{
+	width: 40%;
+	float: left;
+}
+.panel>.healthy>input.ml15{
+	margin-left: 15px;
+}
+
+.panel>.healthy>span{
+	float: left;
+	margin-top: 5px;
+	display: inline-block;
+}
+.panel>.healthy>span.mt15{
+	margin-top:15px;
+}
+.panel>.healthy>p.mt10{
+	margin-top: 10px;
+}
+.form-group>label.fl{
+	float:left;
+	display: inline-block;
+	margin-top: 5px;
+	width: 10%;
+	text-align: center;
+	
+}
+.form-group>input.width80{
+	width:90%;
+	margin-left: 10px;
+}
+.container>h1{
+	text-align: center;
+	font-size: 1.5em;
+}
+.form-group>.healthy>label>input{
+	width:20px;
+	height: 20px;
+	line-height: 2;
+	vertical-align:bottom;
+	
+}
+.form-group>.healthy>input.text_long{
+	width:40%;
+	float: left;
+}
+.form-group>.healthy>input.ml15{
+	margin-left: 15px;
+}
+.form-group>.healthy>input.mt10{
+	margin-top: 10px;
+}
+.form-group>.pddleft0{
+	padding-left: 0;
+}
+.form-group>.pddright0{
+	padding-right: 0;
+}
+.form-group>.healthy>input.mt20{
+	margin-top: 20px;
+}
+.form-group>.healthy>span{
+	float: left;
+	margin-top: 9px;
+	display: inline-block;
+}
+.form-group>.healthy>span.mt15{
+	margin-top: 15px;
+}
+.form-group>.healthy>span.mt20{
+	margin-top: 20px;
+}
+.form-group>.healthy{
+	overflow: hidden;
+}
+.form-group>.healthy>label>input.text_long10{
+	width:50px;
+}
+.form-group {
+	margin-top: 20px;
+}
+.form-group>.healthy>span.mt20{
+	margin-top: 20px;
+}
+.form-group>.pddleft0{
+	padding-left: 0;
+}
+.form-group>.pddright0{
+	padding-right: 0;
+}
+#exampleInputName2{
+	height: 36px;
+	width: 387px;
+	display: block;
+	margin-right: 20px;
+	background-color: #fff;
+	background-image: none;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+input[type=checkbox], input[type=radio] {
+	width: 20px;
+    height: 20px;  
+    vertical-align:bottom;  
+}
+#tige_jiancha4 {
+    margin-top: -7px;
+}
+#tige_jiancha5 {
+    margin-top: -7px;
+}
+#tige {
+	margin-right: 12px;
+}
+
+.tige_pinjia {
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	margin-left: 10px;
+	font-size: 14px;
+	vertical-align: middle;
+	font-family: Arial, 微软雅黑;
+}
+
+select {
+	width: 176px;
+	height: 36px;
+	margin-right: 23px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+
+.yaci {
+	margin-left: 10px;
+	width: 69px;
+}
+
+.xiongbu {
+	margin-left: 77px;
+}
+
+.feibu {
+	margin-left: 33px;
+}
+
+.xb_fb {
+	margin-top: 5px;
+}
+.label_color{
+	color:#3C3C3C;
+	font-weight: inherit;
+}
+.mianse {
+    margin-top: 7px;
+}
+
+.pifu {
+	margin-left: 33px;
+}
+#fayu_pingjia {
+	margin-top: 5px;
+}
+
+#fayu_pingjia label {
+	padding-right: 41px;
+	font-size: 13px;
+	font-weight: inherit;
+}
+#fayu_pingjia0 {
+	margin-top: 5px;
+}
+
+#fayu_pingjia0 label {
+	padding-right: 41px;
+	font-size: 13px;
+	font-weight: inherit;
+}
+#fayu_pingjia1 {
+	margin-top: 5px;
+}
+
+#fayu_pingjia1 label {
+	padding-right: 41px;
+	font-size: 13px;
+	font-weight: inherit;
+}
+#fayu_pingjia2 {
+	margin-top: 5px;
+}
+
+#fayu_pingjia2 label {
+	padding-right: 41px;
+	font-size: 13px;
+	font-weight: inherit;
+}
+#fayu_pingjia3 {
+	margin-top: 3px;
+}
+
+#fayu_pingjia3 label {
+	padding-right: 41px;
+	font-size: 13px;
+	font-weight: inherit;
+}
+.suiji_qk {
+	width:56px;
+	border-color: #878787;
+	border-style: solid;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-left-width: 0px
+}
+.zzjy_qk{
+	width:121px;
+	border-color: #878787;
+	border-style: solid;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-left-width: 0px
+}
+#form_size{
+	width:55%;
+    margin:0px auto;
+    margin-top: 10px;
+}
+#form_size h3{
+	text-align: center;
+}
+.form-group>.healthy>input.float_left{
+	float: left;
+}
+.form-group>.healthy_left{
+	margin-top:8px;
+}
+.form-group>.healthy>input.ml17{
+	margin-left: 17px;
+}
+.form-group>.healthy>input.ml25{
+	margin-left:25px;
+}
+.form-group>.healthy>input.ml22{
+	margin-left:22px;
+}
+.form-group>.healthy>input.ml20{
+	margin-left: 15px;
+}
+.form-group>.healthy>input.ml37{
+	margin-left:37px;
+}

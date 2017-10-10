@@ -1,0 +1,11 @@
+{
+    "name": "sonka/smsmanager",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jzyuchen",
+            "email": "jzyuchen@163.com"
+        }
+    ],
+    "require": {}
+}
