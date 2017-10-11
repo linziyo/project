@@ -17,6 +17,9 @@ use Illuminate\Support\Facades\Validator;
 
 class AreaController extends Controller
 {
+
+
+    dd(1);
     public $createValidation = ['name' => 'required|max:200', 'community_id' => 'required|numeric'];
     public $message = ['name.required'=>'区域名称不能为空','name.max'=>'区域名称不能超过200个字','community_id.required'=>'社区ID不能为空','community_id.numeric'=>'社区ID为整数型'];
     public $createColumns = ['name', 'community_id'];
